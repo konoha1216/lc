@@ -1,5 +1,4 @@
 public class RopeCoveringMostPoints {
-
     /**
      * 左右两个指针分别从最左开始向右移，
      * 如果右指针值-左指针值>k，则左指针向右移一位，否则右指针一直向右移
